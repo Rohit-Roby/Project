@@ -1,3 +1,9 @@
+https://www.tensorflow.org/tutorials/images/transfer_learning_with_hub
+https://notebooks.githubusercontent.com/view/ipynb?browser=chrome&color_mode=auto&commit=ee7f0bc66b5e14d69168a8a3d75e24c779332669&device=unknown&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6173687265666d2f6d756c74692d6c6162656c2d736f66742d66312f656537663062633636623565313464363931363861386133643735653234633737393333323636392f4d756c74692d4c6162656c253230496d616765253230436c617373696669636174696f6e253230696e25323054656e736f72466c6f77253230322e302e6970796e62&logged_in=false&nwo=ashrefm%2Fmulti-label-soft-f1&path=Multi-Label+Image+Classification+in+TensorFlow+2.0.ipynb&platform=android&repository_id=214814616&repository_type=Repository&version=101
+https://huggingface.co/docs/transformers/en/index
+https://github.com/bmild/nerf
+https://github.com/facebookresearch/Replica-Dataset
+
 1. Generative Adversarial Networks (GANs):
 
 Strengths: Powerful for generating realistic images and potentially 3D models.
