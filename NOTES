@@ -4,6 +4,10 @@ https://huggingface.co/docs/transformers/en/index
 https://github.com/bmild/nerf
 https://github.com/facebookresearch/Replica-Dataset
 
+
+
+
+
 1. Generative Adversarial Networks (GANs):
 
 Strengths: Powerful for generating realistic images and potentially 3D models.
