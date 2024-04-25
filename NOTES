@@ -663,3 +663,15 @@ Regardless of whether you choose GAN or NeRF, the core connection is the same:
 The text encoder provides a rich, compressed representation of the text description.
 The decoder leverages this representation to guide the creation of a detailed 3D environment.
 
+
+Generator
+
+Latent Text Representation: This will likely be a vector of numerical values produced by your pre-trained Text Encoder.
+Noise: A random tensor (often simple Gaussian noise) to introduce variability in the generation process.
+Discriminator
+
+Real Point Clouds: These would be represented as tensors of shape (batch_size, num_points, 3), where each point has (x, y, z) coordinates. You'll need a way to load point clouds from your dataset in this format.
+Generated Point Clouds: Your generator will output point clouds in the same tensor format (batch_size, num_points, 3).
+
+
+
