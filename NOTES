@@ -675,3 +675,33 @@ Generated Point Clouds: Your generator will output point clouds in the same tens
 
 
 
+
+sites:
+https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/acgan/acgan.py
+https://www.kaggle.com/code/tanejanikhil/3dgans
+https://www.kaggle.com/code/kristinapoberezhna/gan-simple-explanation-implementation
+https://github.com/black0017/3D-GAN-pytorch/blob/master/models/GAN3D.py
+
+
+reference:
+
+https://arxiv.org/pdf/2209.14988
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460608
+https://www.ijcai.org/Proceedings/2019/0307.pdf
+https://arxiv.org/pdf/1907.04378
+https://openaccess.thecvf.com/content/ICCV2023/papers/Raj_DreamBooth3D_Subject-Driven_Text-to-3D_Generation_ICCV_2023_paper.pdf
+https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Dream3D_Zero-Shot_Text-to-3D_Synthesis_Using_3D_Shape_Prior_and_Text-to-Image_CVPR_2023_paper.pdf
+https:https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_Generating_Diverse_and_Natural_3D_Human_Motions_From_Text_CVPR_2022_paper.pdf//openaccess.thecvf.com/content/CVPR2023/papers/Lin_Magic3D_High-Resolution_Text-to-3D_Content_Creation_CVPR_2023_paper.pdf
+https://ojs.aaai.org/index.php/AAAI/article/view/27886
+https://ieeexplore.ieee.org/abstract/document/8499439
+https://arxiv.org/pdf/1703.06412
+https://www.ijcai.org/Proceedings/2019/0276.pdf
+https://csitcp.com/paper/9/99csit06.pdf
+https://link.springer.com/article/10.1007/s10586-018-2653-6
+https://proceedings.mlr.press/v78/smith17a/smith17a.pdf
+https://openaccess.thecvf.com/content_ECCVW_2018/papers/11132/Wang_From_attribute-labels_to_faces_face_generation_using_a_conditional_generative_ECCVW_2018_paper.pdf
+https://www.sciencedirect.com/science/article/pii/S1361841524000252
+https://arxiv.org/pdf/2207.01390
+https://arxiv.org/pdf/1511.06434v2
+
+
